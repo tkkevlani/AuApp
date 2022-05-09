@@ -1,0 +1,18 @@
+c:\Users\farhan\documents\visual studio 2015\Projects\Cipher\Cipher\bin\Debug\License.dll
+c:\Users\farhan\documents\visual studio 2015\Projects\Cipher\Cipher\bin\Debug\License.pdb
+c:\Users\farhan\documents\visual studio 2015\Projects\Cipher\Cipher\bin\Debug\MySql.Data.dll
+c:\Users\farhan\documents\visual studio 2015\Projects\Cipher\Cipher\bin\Debug\Google.Protobuf.dll
+c:\Users\farhan\documents\visual studio 2015\Projects\Cipher\Cipher\bin\Debug\MySql.Data.xml
+c:\Users\farhan\documents\visual studio 2015\Projects\Cipher\Cipher\obj\Debug\License.dll
+c:\Users\farhan\documents\visual studio 2015\Projects\Cipher\Cipher\obj\Debug\License.pdb
+c:\Users\farhan\documents\visual studio 2015\Projects\Cipher\Cipher\obj\Debug\License.csprojResolveAssemblyReference.cache
+c:\Users\farhan\documents\visual studio 2015\Projects\Cipher\Cipher\bin\Debug\Scrypt.dll
+F:\TVS Laptop\Personal\Accounts System\Code\License Dll and Utility\License\License\bin\Debug\License.dll
+F:\TVS Laptop\Personal\Accounts System\Code\License Dll and Utility\License\License\bin\Debug\License.pdb
+F:\TVS Laptop\Personal\Accounts System\Code\License Dll and Utility\License\License\bin\Debug\MySql.Data.dll
+F:\TVS Laptop\Personal\Accounts System\Code\License Dll and Utility\License\License\bin\Debug\Scrypt.dll
+F:\TVS Laptop\Personal\Accounts System\Code\License Dll and Utility\License\License\bin\Debug\Google.Protobuf.dll
+F:\TVS Laptop\Personal\Accounts System\Code\License Dll and Utility\License\License\bin\Debug\MySql.Data.xml
+F:\TVS Laptop\Personal\Accounts System\Code\License Dll and Utility\License\License\obj\Debug\License.csprojResolveAssemblyReference.cache
+F:\TVS Laptop\Personal\Accounts System\Code\License Dll and Utility\License\License\obj\Debug\License.dll
+F:\TVS Laptop\Personal\Accounts System\Code\License Dll and Utility\License\License\obj\Debug\License.pdb

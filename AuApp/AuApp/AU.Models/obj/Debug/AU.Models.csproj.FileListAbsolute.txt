@@ -1,0 +1,5 @@
+C:\Users\lokesh.kojhani\Desktop\MyItems\Auto\Dev\AuApp\AU.Models\bin\Debug\AU.Models.dll
+C:\Users\lokesh.kojhani\Desktop\MyItems\Auto\Dev\AuApp\AU.Models\bin\Debug\AU.Models.pdb
+C:\Users\lokesh.kojhani\Desktop\MyItems\Auto\Dev\AuApp\AU.Models\obj\Debug\AU.Models.dll
+C:\Users\lokesh.kojhani\Desktop\MyItems\Auto\Dev\AuApp\AU.Models\obj\Debug\AU.Models.pdb
+C:\Users\lokesh.kojhani\Desktop\MyItems\Auto\Dev\AuApp\AU.Models\obj\Debug\AU.Models.csprojResolveAssemblyReference.cache

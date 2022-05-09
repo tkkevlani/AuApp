@@ -1,0 +1,14 @@
+C:\Users\lokesh.kojhani\Desktop\MyItems\Auto\Dev\AuApp\Au.BL\bin\Debug\Au.BL.dll
+C:\Users\lokesh.kojhani\Desktop\MyItems\Auto\Dev\AuApp\Au.BL\bin\Debug\Au.BL.pdb
+C:\Users\lokesh.kojhani\Desktop\MyItems\Auto\Dev\AuApp\Au.BL\bin\Debug\AU.Common.dll
+C:\Users\lokesh.kojhani\Desktop\MyItems\Auto\Dev\AuApp\Au.BL\bin\Debug\AU.DL.dll
+C:\Users\lokesh.kojhani\Desktop\MyItems\Auto\Dev\AuApp\Au.BL\bin\Debug\AU.Models.dll
+C:\Users\lokesh.kojhani\Desktop\MyItems\Auto\Dev\AuApp\Au.BL\bin\Debug\log4net.dll
+C:\Users\lokesh.kojhani\Desktop\MyItems\Auto\Dev\AuApp\Au.BL\bin\Debug\MySql.Data.dll
+C:\Users\lokesh.kojhani\Desktop\MyItems\Auto\Dev\AuApp\Au.BL\bin\Debug\AU.Common.pdb
+C:\Users\lokesh.kojhani\Desktop\MyItems\Auto\Dev\AuApp\Au.BL\bin\Debug\AU.DL.pdb
+C:\Users\lokesh.kojhani\Desktop\MyItems\Auto\Dev\AuApp\Au.BL\bin\Debug\AU.Models.pdb
+C:\Users\lokesh.kojhani\Desktop\MyItems\Auto\Dev\AuApp\Au.BL\bin\Debug\log4net.xml
+C:\Users\lokesh.kojhani\Desktop\MyItems\Auto\Dev\AuApp\Au.BL\obj\Debug\Au.BL.csprojResolveAssemblyReference.cache
+C:\Users\lokesh.kojhani\Desktop\MyItems\Auto\Dev\AuApp\Au.BL\obj\Debug\Au.BL.dll
+C:\Users\lokesh.kojhani\Desktop\MyItems\Auto\Dev\AuApp\Au.BL\obj\Debug\Au.BL.pdb
